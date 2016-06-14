@@ -6,8 +6,8 @@
     <authors>Scott Keith Thomas, Jr.</authors>
     <description>Machine learning framework.</description>
     <tags>Learning</tags>
-    <iconUrl>https://github.com/skthomasjr/Learning/tree/master/Build/NuGet/Package/Icon.png</iconUrl>
-    <licenseUrl>https://github.com/skthomasjr/Learning/blob/master/LICENSE.md</licenseUrl>
+    <iconUrl>https://raw.githubusercontent.com/skthomasjr/Learning/master/Build/NuGet/Package.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Learning/master/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/skthomasjr/Learning</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
   </metadata>
