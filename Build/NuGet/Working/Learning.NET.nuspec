@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Learning</id>
+    <id>Learning.NET</id>
     <version>0.0.0</version>
     <authors>Scott Keith Thomas, Jr.</authors>
     <description>Machine learning framework.</description>
