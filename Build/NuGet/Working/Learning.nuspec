@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Learning</id>
+    <version>0.0.0</version>
+    <authors>Scott Keith Thomas, Jr.</authors>
+    <description>Machine learning framework.</description>
+    <tags>Learning</tags>
+    <iconUrl>https://github.com/skthomasjr/Learning/tree/master/Build/NuGet/Package/Icon.png</iconUrl>
+    <licenseUrl>https://github.com/skthomasjr/Learning/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skthomasjr/Learning</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
