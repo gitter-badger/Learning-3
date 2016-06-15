@@ -1,12 +1,12 @@
 ﻿using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Learning")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Learning.NET")]
+[assembly: AssemblyDescription("Leaning.NET is a machine learning framework.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Learning")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Scott Keith Thomas, Jr.")]
+[assembly: AssemblyProduct("Learning.NET")]
+[assembly: AssemblyCopyright("Copyright © 2016 Scott Keith Thomas, Jr.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
