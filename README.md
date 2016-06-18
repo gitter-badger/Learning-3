@@ -1,4 +1,6 @@
 # Learning.NET
+
+[![Join the chat at https://gitter.im/skthomasjr/Learning](https://badges.gitter.im/skthomasjr/Learning.svg)](https://gitter.im/skthomasjr/Learning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build](https://ci.appveyor.com/api/projects/status/e1rlsqt6irfc0nwi?svg=true)](https://ci.appveyor.com/project/skthomasjr/learning)
 [![Release](https://img.shields.io/github/release/skthomasjr/Learning.svg?maxAge=2592000)](https://github.com/skthomasjr/Learning/releases)
 [![NuGet](https://img.shields.io/nuget/v/Learning.NET.svg)](https://www.nuget.org/packages/Learning.NET)
